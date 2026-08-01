@@ -1,0 +1,1 @@
+Folder for advertisement images.
